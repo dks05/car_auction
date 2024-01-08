@@ -27,11 +27,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 - Clone the repository to your local machine.
 ```
-git clone https://github.com/your-username/cars-auction-platform.git
+git clone https://github.com/dks05/car_auction.git
 ```
 - Navigate to the project directory.
 ```
-cd cars-auction-platform
+cd car_auction
 ```
 
 - Build the project.
